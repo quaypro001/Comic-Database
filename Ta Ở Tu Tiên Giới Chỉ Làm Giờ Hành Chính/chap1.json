@@ -1,0 +1,9 @@
+{
+  "domain_cdn": "https://sv1.otruyencdn.com",
+  "chapter_path": "uploads/20231224/6e54fb578b75fc6403de15372f75a4ab/chapter_1",
+  "chapter_image": [
+    { "image_page": 1, "image_file": "page_1.jpg" },
+    { "image_page": 2, "image_file": "page_2.jpg" },
+    { "image_page": 3, "image_file": "page_3.jpg" }
+  ]
+}
