@@ -1,0 +1,14 @@
+{
+  "series": [
+    {
+      "id": "bo1",
+      "title": "Ta Ở Tu Tiên Giới Chỉ Làm Giờ Hành Chính",
+      "manifest": "https://raw.githubusercontent.com/<user>/<repo>/main/bo1/manifest.json"
+    },
+    {
+      "id": "bo2",
+      "title": "Một Bộ Khác",
+      "manifest": "https://raw.githubusercontent.com/<user>/<repo>/main/bo2/manifest.json"
+    }
+  ]
+}
