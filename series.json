@@ -1,12 +1,12 @@
 {
   "series": [
     {
-      "id": "my-series",
-      "title": "Bộ A",
-      "manifest": "https://raw.githubusercontent.com/<user>/<repo>/<branch>/my-series/manifest.json"
+      "id": "0000001",
+      "title": "Ta Ở Tu Tiên Giới Chỉ Làm Giờ Hành Chính",
+      "manifest": ""
     },
     {
-      "id": "other-series",
+      "id": "0000002",
       "title": "Bộ B",
       "manifest": "https://raw.githubusercontent.com/<user>/<repo>/<branch>/other-series/manifest.json"
     }
