@@ -1,9 +1,9 @@
 {
-  "title": "My Series",
+  "title": "Ta Ở Tu Tiên Giới Chỉ Làm Giờ Hành Chính",
   "cover": "images/cover.jpg",
-  "baseUrl": "https://raw.githubusercontent.com/<user>/<repo>/<branch>/my-series", 
+  "baseUrl": "https://raw.githubusercontent.com/<user>/<repo>/<branch>/bo-a",
   "chapters": [
-    { "id": "001", "title": "Chapter 1" },
-    { "id": "002", "title": "Chapter 2" }
+    { "id": "001", "title": "Chương 1: Khởi đầu" },
+    { "id": "002", "title": "Chương 2: Phiêu lưu" }
   ]
 }
