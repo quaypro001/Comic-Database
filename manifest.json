@@ -1,9 +1,0 @@
-{
-  "title": "My Series",
-  "cover": "images/cover.jpg",
-  "baseUrl": "https://raw.githubusercontent.com/<user>/<repo>/<branch>/my-series", 
-  "chapters": [
-    { "id": "001", "title": "Chapter 1" },
-    { "id": "002", "title": "Chapter 2" }
-  ]
-}

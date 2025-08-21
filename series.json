@@ -1,0 +1,14 @@
+{
+  "series": [
+    {
+      "id": "my-series",
+      "title": "Bộ A",
+      "manifest": "https://raw.githubusercontent.com/<user>/<repo>/<branch>/my-series/manifest.json"
+    },
+    {
+      "id": "other-series",
+      "title": "Bộ B",
+      "manifest": "https://raw.githubusercontent.com/<user>/<repo>/<branch>/other-series/manifest.json"
+    }
+  ]
+}
