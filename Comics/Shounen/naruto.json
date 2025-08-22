@@ -1,0 +1,13 @@
+{
+  "title": "Naruto",
+  "chapters": {
+    "1": [
+      "https://i.imgur.com/xxxx1.jpg",
+      "https://i.imgur.com/xxxx2.jpg"
+    ],
+    "2": [
+      "https://i.imgur.com/yyyy1.jpg",
+      "https://i.imgur.com/yyyy2.jpg"
+    ]
+  }
+}
