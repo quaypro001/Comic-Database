@@ -1,3 +1,16 @@
 {
-  "Naruto": "https://raw.githubusercontent.com/quaypro001/Comic-Database/main/Manga/Naruto.json"
+  "series": [
+    {
+      "id": "one-piece",
+      "title": "One Piece",
+      "type": "manga",
+      "chapters_url": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/one-piece.json"
+    },
+    {
+      "id": "solo-leveling",
+      "title": "Solo Leveling",
+      "type": "webtoon",
+      "chapters_url": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/solo-leveling.json"
+    }
+  ]
 }
