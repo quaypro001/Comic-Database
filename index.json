@@ -3,12 +3,14 @@
     {
       "id": "naruto",
       "title": "Naruto",
+      "author": "Đang cập nhật",
       "type": "manga",
       "chapters_url": "https://raw.githubusercontent.com/quaypro001/Comic-Database/main/Manga/Naruto.json"
     },
     {
       "id": "solo-leveling",
       "title": "Solo Leveling",
+      "author": "Chugong",
       "type": "webtoon",
       "chapters_url": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/solo-leveling.json"
     }
