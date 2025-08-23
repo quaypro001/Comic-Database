@@ -9,10 +9,10 @@
     },
     {
       "id": "solo-leveling",
-      "title": "Solo Leveling",
+      "title": "Tôi Thăng Cấp Một Mình",
       "author": "Chugong",
       "type": "webtoon",
-      "chapters_url": "https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/solo-leveling.json"
+      "chapters_url": "https://raw.githubusercontent.com/quaypro001/Comic-Database/main/Manhwa/solo-leveling.json"
     }
   ]
 }
